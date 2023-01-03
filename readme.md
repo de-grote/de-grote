@@ -8,7 +8,7 @@ I mainly program in python and like to make random stuff like games I never fini
 class Chris:
     def __init__(self):
         self.username: str = "de_grote"
-        self.age: int = 17  # remind me to update sometimes
+        self.age: int = 18  # remind me to update sometimes
         self.gaming: bool = True
 ```
 
